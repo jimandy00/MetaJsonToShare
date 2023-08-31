@@ -1,0 +1,1 @@
+{"name":"박동식이9","age":28,"height":187.0,"gender":true,"favoritFood":["편백찜","마라샹궈","꿀무지개설기"]}
